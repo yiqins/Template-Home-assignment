@@ -1,0 +1,36 @@
+*{
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	font-family: Helvetica, sans-serif;
+}
+
+.avenger-container{
+	background-color: papayawhip;
+	border-radius: 5px;
+	width: 500px;
+	margin: 20px;
+	padding: 10px;
+	box-shadow: 0 0 6px #ccc;
+	font-size: 15px;
+	border: 1px solid #ccc;
+	line-height: 16px;
+	display: inline-block;
+	vertical-align:top;
+}
+
+.character-container img{
+	width:120px;
+}
+
+.character-value{
+	font-weight:bold;
+	padding:15px;
+	float:right;
+	font-size:30px;
+}
+.character-realname{
+	font-size:10px;
+}
+
+
